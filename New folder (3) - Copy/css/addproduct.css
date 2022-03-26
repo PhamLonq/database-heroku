@@ -1,0 +1,52 @@
+.body{
+    background: #a64bf4;
+    background: -webkit-linear-gradient(right, #8f48d1, #4f2580, #4c238d, #600ebd);
+}
+ 
+.add{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+
+.songadd{
+width: 40%;
+margin-left: 90px;
+background-color: rgb(255, 255, 255);
+}
+
+.title{
+    border: black;
+}
+
+
+
+.songlist{
+    
+    width: 60%;
+    align-items: center;
+    text-align: center;
+    margin-right: 100px;
+}
+.object{
+text-align: center;
+background-color: rgb(172, 172, 172);
+}
+
+.tablelist{
+    width: 70%;
+    text-align: center;
+
+}
+
+.dayreleash{
+width: 100px;
+}
+.lyric{
+        width: 100%;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;  
+        overflow: hidden;
+}
+
